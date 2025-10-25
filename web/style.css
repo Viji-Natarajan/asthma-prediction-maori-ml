@@ -1,0 +1,31 @@
+/* style.css */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ccdbfd; /* your project color */
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+section {
+  width: 80%;
+  margin: 2rem auto;
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  color: #555;
+  margin-top: 2rem;
+  padding: 1rem 0;
+}
